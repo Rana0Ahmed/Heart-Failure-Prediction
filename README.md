@@ -1,6 +1,6 @@
 # Heart-Failure-Prediction
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8f8M5V8nH3f7EnNX8e-Zpe19yM6DOBX2yGw&usqp=CAU" width="400">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8f8M5V8nH3f7EnNX8e-Zpe19yM6DOBX2yGw&usqp=CAU" width="350">
 
 ### Attributes Information
 - Age: age of the patient [years]
